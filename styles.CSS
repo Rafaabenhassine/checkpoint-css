@@ -1,0 +1,46 @@
+.Curruculum{
+
+}
+
+.li{
+    display: inline
+}
+
+.fond{
+    background-color: aqua;font-family: 'Roboto', sans-serif;
+}
+
+.tel{
+font-size: small;heigh: 50px;width: 50px;
+}
+
+.e-mail{
+    font-size: small;heigh: 50px;width: 50px;
+}
+
+.facebook{
+    font-size: small; heigh: 50px;width: 50px;
+}
+
+.instagram{
+    font-size: small;heigh: 50px;width: 50px;
+    
+}
+.linkedin{
+    font-size: small;heigh: 60px;width: 65px;
+}
+
+    
+.twitter{
+    font-size: small;heigh: 50px;width: 50px;
+}
+
+.video{
+    font-size:large; height: 500px; width: 800px;
+    padding-left: 260px;
+}
+
+.table{
+    color:blue;border-color:chocolate;
+    
+}
