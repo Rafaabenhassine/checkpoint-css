@@ -1,8 +1,17 @@
 .Curruculum{padding-left: 500px; color: aliceblue;
 
 }
+.photo{ padding-left: 40px;
+
+}
+
 .fond{
     background-color: beige;
+}
+
+.brder{
+    border: 10px;border-color:black;
+
 }
 
 .li{
