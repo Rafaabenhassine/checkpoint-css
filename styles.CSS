@@ -1,9 +1,16 @@
-.Curruculum{
+.Curruculum{padding-left: 500px; color: aliceblue;
 
+}
+.fond{
+    background-color: beige;
 }
 
 .li{
     display: inline
+}
+.video{
+    font-size:large; height: 500px; width: 800px;
+    padding-left: 260px;
 }
 
 .fond{
@@ -43,4 +50,7 @@ font-size: small;heigh: 50px;width: 50px;
 .table{
     color:blue;border-color:chocolate;
     
+}
+.text{
+    color: aliceblue;
 }
