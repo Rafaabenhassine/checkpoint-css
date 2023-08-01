@@ -1,21 +1,17 @@
-.Curruculum{padding-left: 500px; color: aliceblue;
+.CV{padding-left: 500px; color: chocolate  ;background-color: brown;
 
 }
 .photo{ padding-left: 40px;
 
 }
 
-.fond{
-    background-color: beige;
-}
-
-.brder{
+.border{
     border: 10px;border-color:black;
 
 }
 
-.li{
-    display: inline
+.navbar{
+    display: block
 }
 .video{
     font-size:large; height: 500px; width: 800px;
@@ -23,7 +19,7 @@
 }
 
 .fond{
-    background-color: aqua;font-family: 'Roboto', sans-serif;
+    background-color: red;font-family: 'Roboto', sans-serif;
 }
 
 .tel{
@@ -63,3 +59,11 @@ font-size: small;heigh: 50px;width: 50px;
 .text{
     color: aliceblue;
 }
+
+.joindre{
+    color: chocolate;
+    }
+
+    .footer{
+        background-color: brown
+    }
